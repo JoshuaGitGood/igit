@@ -1,5 +1,0 @@
-   ID  ITEM AMOUNT
- 1000  TAYD   200
- 1001  SARF   800
- 1002 DAWNY   100
- 1003 discontinued     0
