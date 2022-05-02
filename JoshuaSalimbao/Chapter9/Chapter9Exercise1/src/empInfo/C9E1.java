@@ -25,9 +25,9 @@ public class C9E1 {
         // SECTION WHERE POLYMORPHISM and Inheritance IS APPLIED
         System.out.println(
                 "*******************************************************************************************************************************************");
-        System.out.println("\n\tNAME : " + uemp.getName()); // 2 in 1 OOP
+        System.out.println("\n\tNAME : " + uemp.getName()); // 3 in 1 OOP
         
-        System.out.println("\n\tSALARY : " + uemp2.getSalary());// 2 in 1 OOP
+        System.out.println("\n\tSALARY : " + uemp2.getSalary());// 3 in 1 OOP
         
 
       
